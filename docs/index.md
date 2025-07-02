@@ -1,4 +1,4 @@
-# 📘 Database Naming Standards – MySQL
+📘 Database Naming Standards – MySQL
 
 ---
 
